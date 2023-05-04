@@ -1,21 +1,13 @@
 name: bloc_supreme
-description: A Flutter package project implementing BLoC pattern with some improvements.
+description: A Dart package project implementing BLoC pattern with some improvements.
 version: 0.0.1
-homepage:
+# repository: https://github.com/my_org/my_repo
 
 environment:
   sdk: '>=2.19.6 <3.0.0'
-  flutter: ">=1.17.0"
 
 dependencies:
-  flutter:
-    sdk: flutter
-
   synchronized: ^3.1.0
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
-  flutter_lints: ^2.0.1
-
-flutter:
+  lints: ^2.0.1
