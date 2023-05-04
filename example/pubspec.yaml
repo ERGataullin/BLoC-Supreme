@@ -11,6 +11,9 @@ dependencies:
   flutter:
     sdk: flutter
 
+  bloc_supreme:
+    path: ../
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
